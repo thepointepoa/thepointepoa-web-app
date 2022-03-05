@@ -124,12 +124,20 @@
             <section class="text-center">
               <h4 class="mb-5"><strong>Contact Us</strong></h4>
       
-              <div style="width:100%; position:relative;">
+              <!--<div style="width:100%; position:relative;">
                 <p class="text-muted">Architectural Committee - <a href="mailto:arb@thepointepoa.com">arb@thepointepoa.com</a></p>
                 <p><strong></strong></p>
                 <p class="text-muted">General Information - <a href="mailto:info@thepointepoa.com">info@thepointepoa.com</a></p>
                 <p><strong></strong></p>
-              </div>
+              </div>-->
+              
+              <form action="https://thepointepoa-mail-func.azurewebsites.net/api/SendTrigger" target="_self" method="get">
+                Email: <input name="Email" class="input" type="text" placeholder="you@yourdomain.com" /><br />
+                Subject: <input name="Subject" class="input" type="text" placeholder="Information" /><br />
+                Message: <br />
+                <textarea name="Message" rows="10" cols="80" class="input" type="text" placeholder="Additional details"></textarea><br />
+                <input type="submit" value="Submit" " />
+              </form>
       
             </section>
             <!--Section: Contact Us-->
