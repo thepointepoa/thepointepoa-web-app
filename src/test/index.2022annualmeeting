@@ -67,59 +67,52 @@
           </div>
 
           <div class="col-md-6 gx-5 mb-4">
-            <!--<h4><strong>Coming Soon!!!</strong></h4>-->
-            <section class="text-center">
-              <div style="width:100%; position:relative;">
-                <h4 class="mb-5">NOTICE: </h4>
-                <h4 class="text-muted">The Pointe at Northshore POA Regular Monthly Board Meetings are scheduled for the third Monday of the month at 7:00 PM </h4>
-                <!--<p class="text-muted"> </p>
-                <p class="text-muted">A regular board meeting will be held online via meeting link below.</p>
-                <p class="text-muted"> </p>
-                <p class="text-muted">Monday, April 18, 2022 at 7:00 PM</p>
-                <p class="text-muted"> </p>
-                <p class="text-muted">Items on the agenda to be discussed are:</p>
-                <p class="text-muted"> </p>
-                <p class="text-muted">Variance Requests</p>
-                <p class="text-muted"> </p>
-                <p class="text-muted">Neighborhood Party</p>
-                <p class="text-muted"></p>
-                <p class="text-muted"></p>
-                <p class="text-muted"></p>
-                <p class="text-muted"></p>
-                <p class="text-muted"></p>
-                <p class="text-muted"></p>
-                <p class="text-muted"></p>
-                <p class="text-muted"></p>
-                <p class="text-muted"></p>
-                <p class="text-muted"></p>
-                <p class="text-muted"></p>
-                <p class="text-muted"></p>
-                <p class="text-muted"></p>
-                <p class="text-muted"></p>
-                <p class="text-muted"></p>
-                <p class="text-muted"></p>
-                <p class="text-muted"></p>
-                <p class="text-muted">Meeting Link: </span><a href="https://meet.thepointepoa.com/meeting/join" target="_blank" rel="noopener noreferrer"><span>meet.thepointepoa.com/meeting/join</span></a>**</p>
-                -->
-            </section>
-
+            <h4><strong>Welcome to The Pointe at Northshore!</strong></h4>
+            <p class="text-muted">
+              The Pointe at Northshore POA is excited to have you visit our site.  Our goal with this site 
+              is to share important news, information and announcements as well as provide an online repository 
+              of important association documents.
+            </p>
+            <p><strong>About The Pointe at Northshore</strong></p>
+            <p class="text-muted">
+              The Pointe at Northshore was established in 2000 and is located around 15 miles southwest of 
+              Cedar Park, TX. Here you will find The Pointe at Northshore quietly nestled on the picturesque 
+              shores of Lake Travis in the beautiful Texas hill country.  Please feel free to contact us below
+              with any questions or to request more information.
+              </p>
+            <p><strong></strong></p>
+  
+          </div>
         </div>
       </section>
       <!--Section: Content-->
 
       <hr class="my-5" />
 
+      <!--Section: POA Announcements-->
+      <section class="text-center">
+        <h4 class="mb-5"><strong><a href="/.auth/login/aad?post_login_redirect_uri=https://www.thepointepoa.com/members">POA Member Login</a></strong></h4>
+
+        <div style="width:100%; position:relative;">
+          <iframe src="https://resources.thepointepoa.com/embed/b6gxtc1dad06228f44f4796618e69d9810859?toolbar=false&layout=grid" style="position:absolute; top:0px; left:0px;
+          width:100%; height:100%; border: none; overflow: hidden;"></iframe>
+        </div>
+
+      </section>
+      <!--Section: POA Announcements-->
+
+      <hr class="my-5" />
 
       <!--Section: POA Docs-->
       <section class="text-center">
-        <h4 class="mb-5"><strong>News, Information and Announcements</strong></h4>
+        <h4 class="mb-5"><strong>Documents</strong></h4>
 
         <div style="width:100%; position:relative;">
           <p class="text-muted"></p>
-           
-            <a href="https://resources.thepointepoa.com/sheet/open/m3ql239ffad4dfb394e38a785ab88fd1ea18d" target="_blank" rel="noopener noreferrer">POA Member Contact List</a>
+            
+            POA Documents can be foud here: <a href="https://resources.thepointepoa.com/external/2864c35d2a98b256e77d0e9d88c2fd01353d0c48e695786f153af11838aa0d5e">Documents</a>
             <p><strong></strong></p>
-          <!--  
+          <!-- 
           <iframe src="https://resources.thepointepoa.com/embed/b6gxtc1dad06228f44f4796618e69d9810859?toolbar=false&layout=grid" scrolling="no" frameborder="0" allowfullscreen=true width="800" height="520" ></iframe>
           -->
         </div>
@@ -153,15 +146,6 @@
             <!--Section: Contact Us-->
             <hr class="my-5" />
 
-            <!--Section: POA Announcements-->
-            <section class="text-center">
-            <h4 class="mb-5"><strong><a href="/.auth/logout">Logout</a></strong></h4>
-          </section>
-      <!--Section: POA Announcements-->
-
-      <hr class="my-5" />
-
-
     </div>
   </main>
   <!--Main layout-->
@@ -172,7 +156,7 @@
     <!-- Copyright -->
     <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
       © 2022 Copyright:
-      <a class="text-dark" href="https://www.thepointepoa.com/">The Pointe at Northshore POA</a>
+      <a class="text-dark" href="https://thepointepoa.com/">ThePointePOA.com</a>
     </div>
     <!-- Copyright -->
   </footer>
