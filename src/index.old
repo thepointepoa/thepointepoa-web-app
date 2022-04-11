@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>The Pointe at Northshore POA</title>
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" />
+    <!-- Google Fonts Roboto -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" />
+    <!-- MDB -->
+    <link rel="stylesheet" href="css/mdb.min.css" />
+    <!-- Custom styles -->
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+<body> 
+ <!--Main Navigation-->
+  <header>
+    <style>
+      #intro {
+        background-image: url("https://github.com/thepointepoa/thepointepoa-web-app/blob/main/images/bridge.jpg?raw=true");
+        height: 100vh;
+      }
+
+      /* Height for devices larger than 576px */
+      @media (min-width: 992px) {
+        #intro {
+          margin-top: -58.59px;
+        }
+      }
+
+      .navbar .nav-link {
+        color: #fff !important;
+      }
+    </style>
+
+
+
+    <!-- Background image -->
+    <div id="intro" class="bg-image shadow-2-strong">
+      <div class="mask" style="background-color: rgba(0, 0, 0, 0.6);">
+        <div class="container d-flex align-items-center justify-content-center text-center h-100">
+          <div class="text-white">
+            <h1 class="mb-3">The Pointe at Northshore POA</h1>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Background image -->
+  </header>
+  <!--Main Navigation-->
+
+  <!--Main layout-->
+  <main class="mt-5">
+    <div class="container">
+      <!--Section: Content-->
+      <section>
+        <div class="row">
+          <div class="col-md-6 gx-5 mb-4">
+            <div class="bg-image hover-overlay ripple shadow-2-strong rounded-5" data-mdb-ripple-color="light">
+              <img src="images/sign.jpg" class="img-fluid" />
+              <a href="#!">
+                <div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
+              </a>
+            </div>
+          </div>
+
+          <div class="col-md-6 gx-5 mb-4">
+            <!--<h4><strong>Coming Soon!!!</strong></h4>-->
+            <section class="text-center">
+              <div style="width:100%; position:relative;">
+                <h4 class="mb-5">NOTICE: </h4>
+                <h4 class="text-muted">The Pointe at Northshore POA Annual Meeting</h4>
+                <p class="text-muted"> __________________________________________________</p>
+                <p class="text-muted">The annual meeting will be held on Saturday, April 9, 2022 at 10:00 am</p>
+                <p class="text-muted">at the home of Eric and Theresa Davis</p>
+                <p class="text-muted"> __________________________________________________</p>
+                <p class="text-muted">The meeting agenda will be structured as follows:</p>
+                <p class="text-muted">President's Report</span></p>
+                <p class="text-muted">Treasurer's Report</span></p>
+                <p class="text-muted">Old Business (including topics listed and submitted from the floor)</p>
+                <p class="text-muted">New Business (including topics listed and submitted from the floor)</span></p>
+                <p class="text-muted">Nomination and Election of Board Members:</span></p>
+                <p class="text-muted">President</span></p>
+                <p class="text-muted">Rich Heemstra</p>
+                <p class="text-muted">Nominations from floor</p>
+                <p class="text-muted"> __________________________________________________</p>
+                <p class="text-muted">Vice President</span></p>
+                <p class="text-muted">Sam Chirafis</p>
+                <p class="text-muted">Nominations from floor</p>
+                <p class="text-muted"> __________________________________________________</p>
+                <p class="text-muted">Secretary</span></p>
+                <p class="text-muted">Rich Peck</p>
+                <p class="text-muted">Nominations from floor</p>
+                <p class="text-muted"> __________________________________________________</p>
+                <p class="text-muted">Treasurer</span></p>
+                <p class="text-muted">Jennifer Naedler</p>
+                <p class="text-muted">Nominations from floor</p>
+                <p class="text-muted"> __________________________________________________</p>
+                <p class="text-muted">Meeting Link: </span><a href="https://meet.thepointepoa.com/meeting/join" target="_blank" rel="noopener noreferrer"><span>meet.thepointepoa.com/meeting/join</span></a>**</p>
+                <p class="text-muted">** Please note: In the event there are nominations from the floor, online participants will not be allowed to cast votes during the meeting for that board seat; this is because Texas law requires a signed written ballot.  If you cannot attend or are going to attend on line, then the best way to vote is by proxy.  If you wish to vote by proxy, then specify your proxy at least three days in advance of the meeting.</p>
+                <p class="text-muted">Proxy email instructions:</p>
+                <p class="text-muted">1.  Enter "POA Annual Meeting: April 9, 2022 Proxy" in the subject field.</p>
+                <p class="text-muted">2.  In the text of the email include your name, lot number, and the name of the member you want to vote in your place.</p>
+                <p class="text-muted">3.  Send your proxy email to the POA member holding your proxy.</p>
+                <p class="text-muted">4.  Copy (i.e., CC) your email to: president@thepointepoa.com; tleih@austin.rr.com.</p>
+                <p class="text-muted">It is possible to vote by absentee ballot, but you will only be able to vote for those candidates listed above.  Anyone nominated at the meeting will not be on the ballot you receive because we must receive your completed, signed ballot before the meeting.  If you cannot attend the meeting, then the best way to make your voice heard is through the appointment of a proxy.  If you wish to vote by absentee ballot please send your request by email to: president@thepointepoa.com; tleih@austin.rr.com.  This will allow time to work out the details regarding your request.</p>
+            </section>
+
+        </div>
+      </section>
+      <!--Section: Content-->
+    </div>
+  </main>
+  <!--Main layout-->
+
+        <!--Section: POA Announcements-->
+
+        <!--Section: POA Announcements-->
+
+  <!--Footer-->
+  <footer class="bg-light text-lg-start">
+
+    <!-- Copyright -->
+    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+      © 2022 Copyright:
+      <a class="text-dark" href="https://thepointepoa.com/">ThePointePOA.com</a>
+    </div>
+    <!-- Copyright -->
+  </footer>
+  <!--Footer-->
+    <!--Footer-->
+    <!-- MDB -->
+    <script type="text/javascript" src="js/mdb.min.js"></script>
+    <!-- Custom scripts -->
+    <script type="text/javascript" src="js/script.js"></script>
+</body>
+</html>
